@@ -1,3 +1,6 @@
+# Forked from https://github.com/henry-richard7/GTA-V-Online-IP-Grabber
+# Original Author: https://github.com/henry-richard7, all credit goes to him
+#
 # This repo is outdated and may not work as expected Please go here : https://github.com/henry-richard7/Grand-Theft-Auto-Online-IP-Grabber
 # GTA-V-Online-IP-Grabber [Deprecated]
 This Python program grabs IP address during online GTA V online session
